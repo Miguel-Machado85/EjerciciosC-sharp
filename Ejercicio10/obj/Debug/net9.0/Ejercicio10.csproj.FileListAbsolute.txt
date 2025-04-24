@@ -1,0 +1,15 @@
+C:\Users\migue\OneDrive\Desktop\Programacion\EjerciciosC#\EjerciciosC-sharp\Ejercicio10\bin\Debug\net9.0\Ejercicio10.exe
+C:\Users\migue\OneDrive\Desktop\Programacion\EjerciciosC#\EjerciciosC-sharp\Ejercicio10\bin\Debug\net9.0\Ejercicio10.deps.json
+C:\Users\migue\OneDrive\Desktop\Programacion\EjerciciosC#\EjerciciosC-sharp\Ejercicio10\bin\Debug\net9.0\Ejercicio10.runtimeconfig.json
+C:\Users\migue\OneDrive\Desktop\Programacion\EjerciciosC#\EjerciciosC-sharp\Ejercicio10\bin\Debug\net9.0\Ejercicio10.dll
+C:\Users\migue\OneDrive\Desktop\Programacion\EjerciciosC#\EjerciciosC-sharp\Ejercicio10\bin\Debug\net9.0\Ejercicio10.pdb
+C:\Users\migue\OneDrive\Desktop\Programacion\EjerciciosC#\EjerciciosC-sharp\Ejercicio10\obj\Debug\net9.0\Ejercicio10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\OneDrive\Desktop\Programacion\EjerciciosC#\EjerciciosC-sharp\Ejercicio10\obj\Debug\net9.0\Ejercicio10.AssemblyInfoInputs.cache
+C:\Users\migue\OneDrive\Desktop\Programacion\EjerciciosC#\EjerciciosC-sharp\Ejercicio10\obj\Debug\net9.0\Ejercicio10.AssemblyInfo.cs
+C:\Users\migue\OneDrive\Desktop\Programacion\EjerciciosC#\EjerciciosC-sharp\Ejercicio10\obj\Debug\net9.0\Ejercicio10.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Desktop\Programacion\EjerciciosC#\EjerciciosC-sharp\Ejercicio10\obj\Debug\net9.0\Ejercicio10.sourcelink.json
+C:\Users\migue\OneDrive\Desktop\Programacion\EjerciciosC#\EjerciciosC-sharp\Ejercicio10\obj\Debug\net9.0\Ejercicio10.dll
+C:\Users\migue\OneDrive\Desktop\Programacion\EjerciciosC#\EjerciciosC-sharp\Ejercicio10\obj\Debug\net9.0\refint\Ejercicio10.dll
+C:\Users\migue\OneDrive\Desktop\Programacion\EjerciciosC#\EjerciciosC-sharp\Ejercicio10\obj\Debug\net9.0\Ejercicio10.pdb
+C:\Users\migue\OneDrive\Desktop\Programacion\EjerciciosC#\EjerciciosC-sharp\Ejercicio10\obj\Debug\net9.0\Ejercicio10.genruntimeconfig.cache
+C:\Users\migue\OneDrive\Desktop\Programacion\EjerciciosC#\EjerciciosC-sharp\Ejercicio10\obj\Debug\net9.0\ref\Ejercicio10.dll
